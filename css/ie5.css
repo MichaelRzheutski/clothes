@@ -1,0 +1,92 @@
+body{
+	text-align:center;
+}
+/* Main container */
+#container{
+	margin-left: 45px;
+}
+
+/* Top menu */
+nav a.first{
+	padding-left: 0;
+}
+
+/* Header */
+header{
+	height: 618px;
+	text-align:left;
+}
+#header-left-column h2{
+	margin-top: 20px;
+}
+#left-menu{
+	margin-top: 29px;
+}
+#left-menu{
+	padding-left: 32px;
+}
+/* Content */
+#content{
+	text-align:left;
+}
+/* News */
+#news p.date{
+	width: 97px;
+	margin-top: 11px;
+}
+#news p.news-text{
+	margin-top: 11px;
+}
+#new-gods a.all-new-products{
+	margin-right: -18px;
+	position: relative;
+}
+
+/* Main text */
+#main-text p{
+	margin: 10px 0;
+}
+#main-text p{
+	margin: 10px 0;
+}
+#right-column-text ul.qualities{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#right-column-text p{
+	margin-top: 8px;
+}
+#right-content{
+	margin-top: 60px;
+}
+
+/* Footer */
+#left-logo{
+	margin-top: 15px;
+}
+#right-menu{
+	margin-top: -47px;
+}
+
+/* Footer menu */
+footer{
+	text-align:left;
+}
+.footer-menu-top{
+	margin-top: 0;
+	margin-bottom: 5px;
+	margin-left: 0;
+}
+
+.footer-menu-bottom{
+	margin-left: 0;
+}
+
+/* Copyright */
+.copy{
+	margin-left: 20px;
+	margin-right: 40px;
+}
+a.cnt{
+	margin: -32px 15px 0 0px;
+}

@@ -1,0 +1,78 @@
+/* Header */
+header{
+	height: 618px;
+}
+/* Left menu */
+#left-menu{
+	padding-left: 32px;
+}
+
+/* Discount */
+p.discount-percent{
+	line-height: 18px;
+}
+
+/* News */
+#news p.date{
+	width: 97px;
+	margin-top: 11px;
+	margin-right: 3px;
+}
+#news p.news-text{
+	margin-top: 11px;
+}
+
+/* New gods*/
+#new-gods a.all-new-products{
+	margin-right: -18px;
+	position: relative;
+}
+
+/* Content */
+#right-content{
+	margin-top: 60px;
+}
+
+/* Main text*/
+#main-text{
+	margin-top: 50px;
+}
+#main-text p{
+	margin: 10px 0;
+}
+#right-column-text ul.qualities{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#right-column-text p{
+	margin-top: 8px;
+}
+
+/* Footer */
+footer{
+	margin-top: 110px;
+}
+#left-logo{
+	margin-top: 10px;
+}
+h2.small-logo{
+	width: 120px;
+	position: scroll;
+}
+
+/* Footer menu */
+.footer-menu-top{
+	margin-top: 65px;
+	margin-left: 0;
+}
+.footer-menu-bottom{
+	margin-left: 0;
+}
+
+/* Copyright */
+.copy{
+	margin: 3px 0 0 20px;
+}
+a.cnt{
+	margin: -14px 30px 0 0px;
+}
