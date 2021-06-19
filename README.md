@@ -4,4 +4,4 @@ Desktop First. Фиксированная вёрстка с использова
 
 Используемые технологии: **HTML5**, **CSS3**, **JavaScript**, **Git**.
 
-![Clothes - Entire-Page](clothes.png)
+![Clothes - Entire-Page](clothes.jpg)
